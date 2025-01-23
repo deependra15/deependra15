@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @deependra15
-- 👀 I’m interested in web and android devlopment 
-- 🌱 I’m currently learning libraries of javascript and other tools of web dev
+- 👋 Hi, I’m @deependra15 a software developer with 3.5 years of experience in fullstack.
+- 🌱 I've expertise in APIs, implementing secure cloud solutions and designing scalable systems.
 - 💞️ I’m looking to collaborate on any project related to my skill and knowledge
 - 📫 Reach me: deependramaurya757@gmail.com
 
